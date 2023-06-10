@@ -1,0 +1,29 @@
+{"Bands" : [
+  {
+    "Furniture": "Диван",
+    "produced": "Франция",
+    "color": "Белый",
+    "width": "200",
+    "height": "85"
+  },
+  {
+    "Furniture": "Кресло",
+    "produced": "Испания",
+    "color": "Белый",
+    "width": "100",
+    "height": "80"
+  },
+  {
+    "Furniture": "Стул",
+    "produced": "Италия",
+    "color": "Темно-коричневый",
+    "width": "49",
+    "height": "88"
+  },
+  {
+    "Furniture": "Стол",
+    "produced": "Франция",
+    "color": "Чёрный",
+    "width": "120",
+    "height": "73"
+  }]}
