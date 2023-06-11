@@ -46,7 +46,7 @@ public class HelloServlet extends HttpServlet {
     }
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-        String pathStr = "C:\\Users\\legen\\IdeaProjects\\laba6\\demo\\src\\main\\webapp\\json.txt";
+        String pathStr = "C:\\Users\\bllnkky\\IdeaProjects\\lab2\\demo\\src\\main\\webapp\\jsom.txt";
         Path path = Paths.get(pathStr);
 
 
